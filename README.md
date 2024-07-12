@@ -1,0 +1,1 @@
+This project shows the process of data preprocessing, training and evaluating two different models. The dataset, retrieved from Kaggle, cointains information about purchases. It has columns detailing age, gender, as well as item purchased, location, color, and subscription status, which is the prediction target of this project.
